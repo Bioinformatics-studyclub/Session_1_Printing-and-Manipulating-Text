@@ -5,7 +5,7 @@ In this study group we read through the appropriate chapter **(Chapter 2)** in t
 
 We then congregate to discuss how we fared in the exercises at the end of the chapter. 
 
-Thereafter we go through some additional Theory and Exercises if time permits.
+Thereafter we go through some additional Theory and Exercises if time permits. <break><break>
 
 
 

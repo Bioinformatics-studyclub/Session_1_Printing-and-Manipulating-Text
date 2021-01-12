@@ -1,9 +1,11 @@
 # Session_1_Printing-and-Manipulating-Text
 
 
-In this study group we read through the appropriate chapter **(Chapter 2)** in the **Python for Biologist book** 
-And then we congregate to discuss how we fared in the exercises at the end of the chapter. 
-We then go through some additional Theory and Exercises if time permits.
+In this study group we read through the appropriate chapter **(Chapter 2)** in the **Python for Biologist book.** 
+
+We then congregate to discuss how we fared in the exercises at the end of the chapter. 
+
+Thereafter we go through some additional Theory and Exercises if time permits.
 
   1. Link to the book from which we do most of our exercises:
   https://ia800602.us.archive.org/18/items/PythonForBiologists./Python%20for%20Biologists..pdf

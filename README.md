@@ -7,6 +7,7 @@ We then congregate to discuss how we fared in the exercises at the end of the ch
 
 Thereafter we go through some additional Theory and Exercises if time permits. 
 
+**Launch the interactive Jupyter Notebook** ***HERE _>:*** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bioinformatics-studyclub/Session_1_Printing-and-Manipulating-Text/main?filepath=Printing_and_manipulating_text.ipynb)
 
 
   1. Link to the book from which we do most of our exercises:

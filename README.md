@@ -10,6 +10,8 @@ Thereafter we go through some additional Theory and Exercises if time permits.
 **Launch the interactive Jupyter Notebook** ***HERE ->:*** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Bioinformatics-studyclub/Session_1_Printing-and-Manipulating-Text/main?filepath=Printing_and_manipulating_text.ipynb)  (this takes a while to load in your browser, so please be patient)
 
 
+<br><br>
+
   1. Link to the book from which we do most of our exercises:
   https://ia800602.us.archive.org/18/items/PythonForBiologists./Python%20for%20Biologists..pdf
 
